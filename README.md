@@ -31,6 +31,9 @@ Includes multiple standalone components such as a calculator, counter, form, acc
 - **Static Product Database**  
   Contains 25+ sample shoe products
 
+- **To check Mini Projects**
+  Go to Src => components
+
 ## Installation 🛠️
 
 1. Clone the repository:
