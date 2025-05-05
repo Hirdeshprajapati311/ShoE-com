@@ -1,20 +1,35 @@
-🥿 Shoe Store Filter App
-A simple React-based product filter app showcasing a collection of shoes. Users can filter products by category and search keywords using an intuitive sidebar and navbar layout.
+# ShoE-com 🛒👟
 
-📸 Features
-🔍 Live search filtering of products
+A modern e-commerce web application focused on shoe products, built with React and TypeScript. Features product filtering, search functionality, and a clean user interface.
 
-🗂️ Category filter to browse shoes by type
+![ShoE-com Screenshot](https://via.placeholder.com/800x400.png?text=ShoE-com+Demo+Screenshot) *Add real screenshots later*
 
-🧱 Modular components: Navbar, Sidebar, Card
+## Features ✨
 
-💅 Basic responsive layout for a store-like UI
+- **Product Filtering**  
+  Filter shoes by:
+  - Category (Sneakers, Flats, Sandals, Heels)
+  - Company (Nike, Adidas, Puma, Vans)
+  - Color
+  - Price Range
 
-🛠️ Built With
-React (Vite-based setup)
+- **Search Functionality**  
+  Instant search through product titles
 
-Functional Components & Hooks (useState)
+- **Product Cards**  
+  - Product images
+  - Star ratings
+  - Price comparisons
+  - Customer reviews
 
-Custom filtering logic
+- **Responsive Design**  
+  Works across mobile and desktop devices
 
-Props-based component communication
+- **Static Product Database**  
+  Contains 25+ sample shoe products
+
+## Installation 🛠️
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/ShoE-com.git
