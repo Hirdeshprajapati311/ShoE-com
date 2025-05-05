@@ -2,7 +2,8 @@
 
 A modern e-commerce web application focused on shoe products, built with React and TypeScript. Features product filtering, search functionality, and a clean user interface.
 
-![ShoE-com Screenshot](https://via.placeholder.com/800x400.png?text=ShoE-com+Demo+Screenshot) *Add real screenshots later*
+![image](https://github.com/user-attachments/assets/bcbbfddf-2fa3-484f-9108-8eff7e456b1a)
+
 
 ## Features ✨
 
