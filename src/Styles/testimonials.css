@@ -1,0 +1,52 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.testimonials-quote{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 450px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  font-size: 1.5rem;
+  font-weight: 100;
+  padding: 18px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px 5px rgba(133, 120, 120, 0.14);
+}
+
+.testimonials-author{
+  font-weight: 700;
+}
+
+.testimonials-nav{
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+button{
+  background-color: rgb(33, 142, 127);
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 3px;
+  outline: none;
+  cursor: pointer;
+  position: sticky;
+}
+
+button:hover{
+  background-color: rgb(155, 227, 223);
+}

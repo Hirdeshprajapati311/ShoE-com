@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+span{
+  font-size: 3rem;
+  cursor: pointer;
+}
+
+input{
+  border-radius: 5px;
+  padding: 30px;
+  box-shadow: none;
+  background-color: #1a1a1a;
+  border: 2px solid white;
+  outline: none;
+}
+
+input:focus{
+  box-shadow: 0px 10px 10px 5px rgba(235, 214, 111, 0.5);
+}
+
+section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  
+}
+

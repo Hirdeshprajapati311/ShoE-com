@@ -1,0 +1,13 @@
+.color-title{
+  margin-top: 1rem;
+  font-weight: normal;
+}
+
+.all{
+  background: linear-gradient(blue,crimson);
+}
+
+.ml1{
+  margin-right: 40px;
+}
+

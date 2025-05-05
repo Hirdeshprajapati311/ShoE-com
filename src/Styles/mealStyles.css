@@ -1,0 +1,21 @@
+.img {
+  transform: translateX(-120px);
+  margin-top: 1rem;
+  width: 250px;
+  height: 250;
+  background: url("https://images.unsplash.com/photo-1600289031464-74d374b64991?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1075&q=80");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: conver;
+}
+
+section{
+  margin: 0px 0px 0px 200px;
+}
+
+.item-container{
+  display: flex;
+  flex-direction: row;
+  max-width: 250px;
+  max-height: 250px;
+}
